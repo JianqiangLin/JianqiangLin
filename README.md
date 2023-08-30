@@ -1,16 +1,36 @@
-### Hi there 👋
+## 个人资料
 
-<!--
-**JianqiangLin/JianqiangLin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+林健强 | 15133781751 | 153703791@qq.com | 石家庄铁道大学信息科学与技术学院软件工程系
 
-Here are some ideas to get you started:
+## 学习情况
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+前五学期总评成绩排名：1
+
+外语：英语（CET-4：490 CET-6：447）
+
+## 科研工作
+
+曾在石家庄铁道大学省部共建交通工程结构力学行为与系统安全国家重点实验室负责《基于树莓派的地铁乘坐舒适度远程在线监测与大数据分析系统》的开发
+
+## 学术成果
+
+- 中国大学生计算机设计大赛国家级二等奖
+- 全国大学生交通运输科技大赛国家级二等奖
+- CCF全国算法大赛个人三等奖
+- 中国大学生计算机设计大赛省级二等奖
+- 蓝桥杯大赛省级三等奖
+- 火焰杯软件测试全国优秀奖
+- 大学生创新创业训练计划（校级）
+- 基于树莓派的地铁大数据在线监测系统（软件著作权）
+- 超级自习室APP（软件著作权）
+
+## 奖励情况
+
+- 校级三好学生
+- 优秀军训教官
+- 国家励志奖学金
+- 一等奖学金
+
+## 专业技能展示
+
+### 技术栈
